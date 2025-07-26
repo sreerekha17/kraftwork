@@ -61,8 +61,25 @@ This analysis was performed using **Python** with the following libraries:
 - Compares the likelyhood of accepting bar coupon when travelling with no kids, who are a frequent bar visitor and relatively younger 
 - Also compares the impact of <ins>weather</ins>, <ins>income</ins>, <ins>marital status<ins>, <ins>travelling destination and urgency</ins>, traveling with friends/alone on coupon acceptance
 
-## Findings
-- Observed that sunny weather, non urgent travels, traveling with friends and partners, coupons to carry outs and restaurants with less than $20 has \n stronger influence on accepting coupons
+- Coupon Acceptance Overall
+
+  <img width="600" height="600" alt="bar-coupons-acceptance" src="https://github.com/user-attachments/assets/f8605042-56f8-427f-ab31-06ed0689975b" />
+
+ -  Various coupons 
+
+  <img width="500" height="500" alt="coupons_data_as_pie" src="https://github.com/user-attachments/assets/001449dc-a059-45c5-86f8-4138d642f3af" />
+
+- Destination Impact 
+<img width="640" height="480" alt="direction-urgency-impact_point-plot" src="https://github.com/user-attachments/assets/17903b46-c920-4183-bc68-31ac1803b7b8" />
+
+
+- Passenger Impact 
+<img width="640" height="480" alt="passanger-impact_point-plot" src="https://github.com/user-attachments/assets/1456dbd7-6564-4fe4-a4e0-bb0cf622e8b3" />
+
+
+## Summary of Findings
+- Observed that sunny weather, non urgent travels, traveling with friends and partners, coupons to carry outs and restaurants with less than $20 has \n stronge![Uploading passanger-impact_point-plot.png…]()
+r influence on accepting coupons
 
 ## Next Steps
 - Collect more similar data and perform detailed analysis
