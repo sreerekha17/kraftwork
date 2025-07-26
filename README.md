@@ -1,5 +1,7 @@
 # Exploratory Data Analysis Using Concepts of Machine Learning: Will the customer Accept the coupon ?
 
+**Link to Assignment Notebook** - https://github.com/sreerekha17/kraftwork/blob/main/prompt.ipynb
+
 ##  Project Overview  
 This project explores **drivers’ behavior towards coupon acceptance** based on user, contextual, and coupon attributes.  
 
