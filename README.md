@@ -13,6 +13,12 @@ The goal is to:
 2. Compare acceptance rates across **different user segments**  
 3. Visualize key behavioral patterns  
 
+## Files  
+
+- `data/coupons.csv` → Original dataset  
+- `prompt.ipynb` → Notebook with full analysis  
+- `images/*` → Generated visualizations  
+
 
 ## Tools & Libraries  
 
@@ -55,10 +61,12 @@ This analysis was performed using **Python** with the following libraries:
 - Compares the likelyhood of accepting bar coupon when travelling with no kids, who are a frequent bar visitor and relatively younger 
 - Also compares the impact of weather, income, marital status, travelling destination and urgency, traveling with friends/alone on coupon acceptance
 
+## Findings
+- Observed that sunny weather, non urgent travels, traveling with friends and partners, coupons to carry outs and restaurants with less than $20 has \n stronger influence on accepting coupons
 
-## Files  
+## Next Steps
+- Collect more similar data and perform detailed analysis
+- Integrate with an app that sends targeted coupons based on predicted acceptance probability.
 
-- `data/coupons.csv` → Original dataset  
-- `prompt.ipynb` → Notebook with full analysis  
-- `images/*` → Generated visualizations  
+
 
