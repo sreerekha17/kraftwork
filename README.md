@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Using Concepts of Machine Learning: Coupon Acceptance 
+# Exploratory Data Analysis Using Concepts of Machine Learning: Will the customer Accept the coupon ?
 
 ##  Project Overview  
 This project explores **drivers’ behavior towards coupon acceptance** based on user, contextual, and coupon attributes.  
