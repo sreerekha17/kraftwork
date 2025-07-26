@@ -66,7 +66,7 @@ This analysis was performed using **Python** with the following libraries:
 
 ## Next Steps
 - Collect more similar data and perform detailed analysis
-- Integrate with an app that sends targeted coupons based on predicted acceptance probability.
+- Integrate with an app that sends targeted personaized coupons based on predicted acceptance probability such as weather, time of the day, travel destination and so on.
 
 
 
