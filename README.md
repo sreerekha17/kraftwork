@@ -78,8 +78,7 @@ This analysis was performed using **Python** with the following libraries:
 
 
 ## Summary of Findings
-- Observed that sunny weather, non urgent travels, traveling with friends and partners, coupons to carry outs and restaurants with less than $20 has \n stronge![Uploading passanger-impact_point-plot.png…]()
-r influence on accepting coupons
+- Observed that sunny weather, non urgent travels, traveling with friends and partners, coupons to carry outs and restaurants with less than $20 has \n stronger influence on accepting coupons
 
 ## Next Steps
 - Collect more similar data and perform detailed analysis
